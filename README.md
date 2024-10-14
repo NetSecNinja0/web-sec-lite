@@ -12,8 +12,6 @@
 ## Files
 - `vulnerability_scanner_cli.py`: The CLI version of the Web-Sec-Lite tool.
 - `vulnerability_scanner_gui.py`: The GUI version of the Web-Sec-Lite tool (built with a GUI library).
-- `.gitignore`: To exclude unnecessary files from being committed.
-- `LICENSE`: Open source license for this project.
 - `requirements.txt`: List of dependencies required for the project.
 ## Installation
 
