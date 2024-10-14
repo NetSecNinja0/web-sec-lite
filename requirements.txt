@@ -1,0 +1,7 @@
+#language
+python
+#libraries
+requests
+beautifulsoup4
+tkinter  # Only if the GUI version uses Tkinter
+
