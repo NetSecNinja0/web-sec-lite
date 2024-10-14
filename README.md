@@ -16,7 +16,8 @@
 ## Installation
 
 ### Requirements
-Make sure you have `Python 3.x` installed. You can install required Python libraries by running:
+Make sure you have `Python 3.x` installed. You can install it by running:
 
 ```bash
-pip install -r requirements.txt
+sudo apt install python3
+
