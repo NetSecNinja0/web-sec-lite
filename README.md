@@ -16,7 +16,7 @@
 ## Installation
 
 ### Requirements
-You must enter the correct URL of the website you want to crawl and perform testing on. Example: https://example.com".
+You must enter the correct URL of the website you want to crawl and perform testing on.
 
 ```bash
 https://example.com
