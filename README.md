@@ -20,18 +20,19 @@ You must enter the correct URL of the website you want to crawl and perform test
 
 ```bash
 https://example.com
-
+```
 Before installing any tools, it's good practice to update your system to ensure you have the latest package information by running the following command.
 
 ```bash
 sudo apt update
-
+```
 Make sure you have Python 3.x installed. You can install it by running the following command.
 
 ```bash
 sudo apt install python3
-
+```
 Required libraries to run this tool. You can install them by running the following command.
 
 ```bash
 sudo apt install python3-requests python3-bs4 python3-tk
+```
